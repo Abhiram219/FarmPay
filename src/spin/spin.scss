@@ -1,0 +1,14 @@
+$page_bg: #E5E5E5;
+
+.spin {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+    &__container {
+        width: 400px;
+        height: 100vw;
+        background: $page_bg;
+    }
+}
